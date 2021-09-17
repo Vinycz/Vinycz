@@ -4,10 +4,11 @@
     <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinycz&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
-  <div>
+  <div style="display: inline_block"><br>
     <img aling="center" alt="Vinycz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img aling="center" alt="Vinycz-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img aling="center" alt="Vinycz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="right"  alt="Vy-icon" height="150" width="150" src="https://cdn.discordapp.com/attachments/832479417983827968/888518510454652948/image0.gif" >
   </div>
   
   ##
