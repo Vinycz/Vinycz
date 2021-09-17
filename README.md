@@ -18,3 +18,4 @@
     <a href="https://www.linkedin.com/in/vinicius-mendes-de-oliveira-37aa38209/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" /></a>
     <a href="https://www.facebook.com/Vinycz" target="_blank" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  target="_blank" /></a>
     <a href="https://discord.com/channels/Vinycz#2240" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank" /></a>
+  </div>
